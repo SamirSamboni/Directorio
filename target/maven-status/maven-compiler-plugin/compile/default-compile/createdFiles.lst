@@ -1,0 +1,8 @@
+com\mycompany\arbol\JAXRSConfiguration.class
+servlets\SvEditado.class
+com\mycompany\arbol\Guardado.class
+servlets\SvContacto.class
+com\mycompany\arbol\Contacto.class
+com\mycompany\arbol\resources\JavaEE8Resource.class
+com\mycompany\arbol\Directorio.class
+com\mycompany\arbol\ContactoRepetidoException.class
